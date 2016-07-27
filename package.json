@@ -1,0 +1,16 @@
+{
+  "name": "help-test-coverage",
+  "version": "1.0.0",
+  "description": "Integration test coverage for Social Tables help page",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "Social Tables",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "selenium-webdriver": "^2.53.3"
+  }
+}
