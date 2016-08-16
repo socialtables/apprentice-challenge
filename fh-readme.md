@@ -20,36 +20,40 @@ mocha test
   > .
 
 </details>
-### Searching for `Bobby Fisher` should return 0 results.
-</details>
-### Searching for `event` should return 10 results.
-</details>
-### Searching for a word under three character should trigger an alert box with the text `Search string must be at least 3 characters long`.
-
 <details>
+<summary><strong> Searching for `Bobby Fisher` should return 0 results.</strong></summary>
+
+  > .
+
+</details>
+<details>
+<summary><strong> Searching for `event` should return 10 results.</strong></summary>
+
+  > .
+
+</details>
+<details>
+<summary><strong> Searching for a word under three character should trigger an alert box with the text `Search string must be at least 3 characters long`.</strong></summary>
+
+  > .
+
+</details>
+---
 ## <summary><strong>Extra credit</strong></summary>
-### Software dropdown.
-
-
-
-  > .
-
-</details>
-### Show view all 'Event and Room Settings' articles.
+---
 <details>
-  <summary><strong>Q: What do we mean by a React component's "state"?</strong></summary>
+<summary><strong> Software dropdown.</strong></summary>
 
   > .
 
+
 </details>
-### Check header
 <details>
-  <summary><strong>Q: What do we mean by a React component's "state"?</strong></summary>
+<summary><strong> Show view all 'Event and Room Settings' articles.</strong></summary>
 
   > .
 
 </details>
-### Screenshot
 <details>
   <summary><strong>Q: What do we mean by a React component's "state"?</strong></summary>
 
@@ -57,19 +61,22 @@ mocha test
 
 </details>
 
-
-
-**Actions**:
-- Fork and clone this [the exercise](https://github.com/ga-wdi-exercises/react-omdb/), then run `$ npm i` from the root project directory
-- In your `/src` directory, configure your `App.js` and `index.js` files to render a `HelloWorld` component
-- Run `npm start` and make sure everything is working
-
 <details>
-  <summary><strong>Q: What dependency do we need to load in whenever we want to create a component definition?</strong></summary>
+  <summary><strong> Check header</strong></summary>
 
-  > React
+  > .
 
 </details>
+
+
+<details>
+  <summary><strong> Screenshot</strong></summary>
+
+  > .
+
+</details>
+
+
 
 <details>
   <summary><strong>Q: How do we go about starting to define a React component?</strong></summary>
@@ -82,12 +89,6 @@ mocha test
 
 </details>
 
-<details>
-  <summary><strong>Q: What is the one method that every React component must have defined?</strong></summary>
-
-  > render
-
-</details>
 
 <details>
   <summary><strong>Q: What is the syntax for rendering an application's root element?</strong></summary>
@@ -101,31 +102,11 @@ mocha test
 
 </details>
 
-
-<details>
-  <summary><strong>Q: Why do you think we have to use the `className` syntax when defining class attributes for our elements?</strong></summary>
-
-  > `class` is a protected keyword in React/JSX.
-
-</details>
-
-<details>
-  <summary><strong>Q: How would you summarize the Home component's responsibility?</strong></summary>
-
-  > A: This will be our application's root element, the parent in which we will nest the rest of our child components. In charge of render what the user sees on initial page load.
-
-</details>
-
-
-<details>
-  <summary><strong>What are some tradeoffs for using inline-styles to style React components?</strong></summary>
-</details>
-
 ---
 
-## Tutorials
+## Tutorials/Sources
 
-- What are some struggles you encountered when building out a more complex React app for the first time?
+- Places I went to learn Mocha & Selenium
 
 
 ---
