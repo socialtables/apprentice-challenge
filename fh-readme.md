@@ -20,49 +20,46 @@ mocha test
   > .
 
 </details>
+
+
 <details>
 <summary><strong> Searching for `Bobby Fisher` should return 0 results.</strong></summary>
 
   > .
 
 </details>
+
+
 <details>
 <summary><strong> Searching for `event` should return 10 results.</strong></summary>
 
   > .
 
 </details>
+
+
 <details>
 <summary><strong> Searching for a word under three character should trigger an alert box with the text `Search string must be at least 3 characters long`.</strong></summary>
 
   > .
 
 </details>
+
+
 ---
-## <summary><strong>Extra credit</strong></summary>
----
+## Extra credit Tests
+
 <details>
-<summary><strong> Software dropdown.</strong></summary>
+<summary><strong> The Software dropdown should list 6 items.</strong></summary>
 
   > .
 
 
 </details>
-<details>
-<summary><strong> Show view all 'Event and Room Settings' articles.</strong></summary>
 
-  > .
-
-</details>
-<details>
-  <summary><strong>Q: What do we mean by a React component's "state"?</strong></summary>
-
-  > .
-
-</details>
 
 <details>
-  <summary><strong> Check header</strong></summary>
+<summary><strong> 'Event and Room Settings' view all button should display 15 articles.</strong></summary>
 
   > .
 
@@ -70,7 +67,15 @@ mocha test
 
 
 <details>
-  <summary><strong> Screenshot</strong></summary>
+  <summary><strong> The page header should be 'Support Center'.</strong></summary>
+
+  > .
+
+</details>
+
+
+<details>
+<summary><strong> Screenshot</strong></summary>
 
   > .
 
@@ -79,7 +84,7 @@ mocha test
 
 
 <details>
-  <summary><strong>Q: How do we go about starting to define a React component?</strong></summary>
+<summary><strong>Q: How do we go about starting to define a React component?</strong></summary>
 
   ```js
   class ComponentName extends Component {
@@ -91,7 +96,7 @@ mocha test
 
 
 <details>
-  <summary><strong>Q: What is the syntax for rendering an application's root element?</strong></summary>
+<summary><strong>Q: What is the syntax for rendering an application's root element?</strong></summary>
 
   ```js
   ReactDOM.render(
