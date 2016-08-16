@@ -4,8 +4,7 @@
 ## Instructions
 
 ```bash
-# git clone git@github.com:ga-wdi-exercises/react-omdb.git
-# cd react-omdb
+git clone git@github.com:LaFrish/apprentice-challenge.git
 cd apprentice-challenge
 npm install
 mocha test
@@ -16,7 +15,7 @@ mocha test
 
 
 <details>
-### <summary><strong> The Social Tables logo in the top left should link to <https://www.socialtables.com/>.</strong></summary>
+<summary><strong> The Social Tables logo in the top left should link to <https://www.socialtables.com/>.</strong></summary>
 
   > .
 
