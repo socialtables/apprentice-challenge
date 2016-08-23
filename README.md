@@ -1,4 +1,4 @@
-# Social Tables Apprentice Challlenge
+# Social Tables Apprentice Challenge
 
 Our help page <http://help.socialtables.com/> needs help! Your challenge is to write **test coverage** so tablers can sleep better at night knowing customers have access to the help they need.
 
